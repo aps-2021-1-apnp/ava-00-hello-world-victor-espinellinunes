@@ -6,8 +6,8 @@ const quem: string = 'World'
 
 hello(quem)
 
-function bye(q: string): void {
-  console.log('Bye', q)
+function bye(w: string): void {
+  console.log('Bye', w)
 }
 
 const quem2: string = 'World'
